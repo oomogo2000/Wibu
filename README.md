@@ -4,7 +4,7 @@
 ---
 First, you can clone this repo or download zip archive from github and then extract it.
 ```bash
-cd hls-stream-downloader
+cd wibu
 ```
 
 Then, make sure you installed all requirements.
